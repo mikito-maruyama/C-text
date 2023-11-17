@@ -1,0 +1,15 @@
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\bin\Debug\net6.0\SampleRPG.exe
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\bin\Debug\net6.0\SampleRPG.deps.json
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\bin\Debug\net6.0\SampleRPG.runtimeconfig.json
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\bin\Debug\net6.0\SampleRPG.dll
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\bin\Debug\net6.0\SampleRPG.pdb
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\SampleRPG.csproj.AssemblyReference.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\SampleRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\SampleRPG.AssemblyInfoInputs.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\SampleRPG.AssemblyInfo.cs
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\SampleRPG.csproj.CoreCompileInputs.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\SampleRPG.dll
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\refint\SampleRPG.dll
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\SampleRPG.pdb
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\SampleRPG.genruntimeconfig.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter4\SampleRPG\SampleRPG\obj\Debug\net6.0\ref\SampleRPG.dll
