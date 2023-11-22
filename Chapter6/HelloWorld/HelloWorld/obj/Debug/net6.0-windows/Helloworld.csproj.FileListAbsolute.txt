@@ -1,0 +1,7 @@
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter6\Helloworld\Helloworld\obj\Debug\net6.0-windows\Helloworld.csproj.AssemblyReference.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter6\Helloworld\Helloworld\obj\Debug\net6.0-windows\Helloworld.Form1.resources
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter6\Helloworld\Helloworld\obj\Debug\net6.0-windows\Helloworld.csproj.GenerateResource.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter6\Helloworld\Helloworld\obj\Debug\net6.0-windows\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter6\Helloworld\Helloworld\obj\Debug\net6.0-windows\Helloworld.AssemblyInfoInputs.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter6\Helloworld\Helloworld\obj\Debug\net6.0-windows\Helloworld.AssemblyInfo.cs
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter6\Helloworld\Helloworld\obj\Debug\net6.0-windows\Helloworld.csproj.CoreCompileInputs.cache
