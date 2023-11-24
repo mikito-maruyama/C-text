@@ -1,0 +1,14 @@
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\bin\Debug\WeatherChecker.exe.config
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\bin\Debug\WeatherChecker.exe
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\bin\Debug\WeatherChecker.pdb
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csproj.AssemblyReference.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.Form1.resources
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.Properties.Resources.resources
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csproj.GenerateResource.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csproj.CoreCompileInputs.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.exe
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.pdb
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csproj.CopyComplete
