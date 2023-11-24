@@ -1,0 +1,17 @@
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\bin\Debug\net6.0-windows\TaxCalc.exe
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\bin\Debug\net6.0-windows\TaxCalc.deps.json
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\bin\Debug\net6.0-windows\TaxCalc.runtimeconfig.json
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\bin\Debug\net6.0-windows\TaxCalc.dll
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\bin\Debug\net6.0-windows\TaxCalc.pdb
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.csproj.AssemblyReference.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.Form1.resources
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.csproj.GenerateResource.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.AssemblyInfoInputs.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.AssemblyInfo.cs
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.csproj.CoreCompileInputs.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.dll
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\refint\TaxCalc.dll
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.pdb
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\TaxCalc.genruntimeconfig.cache
+C:\Users\10438.SACTYO03\Documents\C-text\Chapter7\TaxCalc\TaxCalc\obj\Debug\net6.0-windows\ref\TaxCalc.dll
